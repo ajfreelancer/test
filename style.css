@@ -1,0 +1,15 @@
+#gradient{
+	background: linear-gradient(to right, red, yellow);
+}
+.bggenerator, .gradientvalue{
+	font-family: 'Sofia';
+	color: #EBEBEB;
+	-webkit-filter: blur(0.1px);
+	-o-filter: blur(0.1px);
+	filter: blur(0.1px);
+}
+.slider1, .slider2{
+	/*transform: rotate(90deg);*/
+	width: 48px;
+	margin: 10px 0 0 0;
+}
