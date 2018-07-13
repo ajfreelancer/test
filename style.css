@@ -1,9 +1,12 @@
 #gradient{
-	background: linear-gradient(to right, red, yellow);
+	background: linear-gradient(to right, red, #cf0bdd);
+}
+body{
+	font-family: 'Sofia';
 }
 .bggenerator, .gradientvalue{
 	font-family: 'Sofia';
-	color: #EBEBEB;
+	color: #000000;
 	-webkit-filter: blur(0.1px);
 	-o-filter: blur(0.1px);
 	filter: blur(0.1px);

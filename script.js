@@ -1,3 +1,8 @@
+var _ = require('lodash');
+console.log(_);
+let arr = [1,2,3,4,5,6];
+console.log(_.without(arr, 4, 5,6));
+
 color1 = document.querySelector('.color1');
 color2 = document.querySelector('.color2');
 body = document.getElementById('gradient');
